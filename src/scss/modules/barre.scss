@@ -1,0 +1,44 @@
+.barre {
+  background: #ffb500;
+  color: #fff;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.b-poisson {
+  background: #9c3;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2) inset;
+  padding: 10px 15px;
+  margin: 0 -12px;
+  color: #fff;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.b-amphi {
+  background: #00a8b1;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2) inset;
+  padding: 10px 15px;
+  margin: 0 -12px;
+  color: #fff;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.b-foot {
+  width: 100vw;
+  height: 10px;
+  background-color: #ffb500;
+}
+
+.b-head {
+  width: 100vw;
+  height: 40px;
+  background-color: #ffb500;
+  margin-bottom: -54.5px;
+}
